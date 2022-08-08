@@ -1,0 +1,10 @@
+.git
+.gitattributes
+migrations
+venv
+env
+__pychache__
+node_modules
+.idea
+.vscode
+fyurr_env
